@@ -1,9 +1,12 @@
 ![logo](danu-bg.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Danushiya</h1>
-<h3 align="center">A passionate Backend Developer</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<h1 align="center">Hi 👋🏻, I'm Danushiya</h1>
+<h3 align="center">A Passionate Backend Developer</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives
+ that could never have been predicted; witnessing the expansion of computer science allowed me to
+ consider studying software engineering from an early age, and my enthusiasm has perpetually developed
+ since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Danushiya&label=Profile%20views&color=0e75b6&style=flat" alt="danushiya" /> 
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/Danushiya"> -->
@@ -25,7 +28,7 @@
   
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Danushiya/Danushiya/assets/146351206/9806e804-3770-4bce-b352-be3be264bc7d">
 <br><br>
 
 - 🔭 I'm currently working as an Intern at **TechnoHack Edutech**
@@ -38,7 +41,7 @@
 
 - 📫 Feel free to reach out to me **danushiyakitty@gmail.com**
 
-- ⚡ Fun fact **I believe I'm hilarious!**
+- ⚡ Fun fact **I believe I'm hilarious!😆**
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -56,14 +59,14 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,flask,c" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,flask,c,gradle" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,react,css" />
+    <img src="https://skillicons.dev/icons?i=html,js,react,css,arduino" />
   </a>
 </p>
 
@@ -77,14 +80,14 @@
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,google cloud" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,anaconda navigator,linux" />
+    <img src="https://skillicons.dev/icons?i=github,figma,vscode,anaconda,linux,gmail,pycharm,ubuntu" />
   </a>
 </p>
 
@@ -100,7 +103,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Achievements:</h3>
-<p>Achieved recognition as one of the <strong>Top 20</strong> best projects in the esteemed Tamil Nadu Coders Premier League (NM-AU-TNcpl)</p>
+<p>I am honored to have secured a <strong>Top 20</strong> position in the esteemed <strong>Tamil Nadu Coders Premier League (NM-AU-TNcpl)</strong></p>
 
 <br><br><br>
 
