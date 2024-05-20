@@ -6,7 +6,8 @@
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives
  that could never have been predicted; witnessing the expansion of computer science allowed me to
  consider studying software engineering from an early age, and my enthusiasm has perpetually developed
- since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+ since this time.
+ And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Danushiya&label=Profile%20views&color=0e75b6&style=flat" alt="danushiya" /> 
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/Danushiya"> -->
