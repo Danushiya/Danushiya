@@ -32,11 +32,11 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Danushiya/Danushiya/assets/146351206/9806e804-3770-4bce-b352-be3be264bc7d">
 <br><br>
 
-- 🔭 I'm currently working as an Intern at **TechnoHack Edutech**
+- 🔭 I have Worked as a Python Development Intern at **TechnoHack Edutech**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [danu's workspace](https://github.com/Danushiya)
+- 👨‍💻 All of my projects are available at [Danu's workspace](https://github.com/Danushiya)
 
 - 💬 Ask me about **Python, AI and Mobile Application**
 
