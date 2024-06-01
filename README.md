@@ -3,11 +3,7 @@
 
 <h1 align="center">Hi 👋🏻, I'm Danushiya</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives
- that could never have been predicted; witnessing the expansion of computer science allowed me to
- consider studying software engineering from an
- early age, and my enthusiasm has perpetually developed since this time.
- And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">In a world drowning in data, the role of a data scientist is to be the lifeguard, extracting the pearls of wisdom from the vast ocean of information.💻</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Danushiya&label=Profile%20views&color=0e75b6&style=flat" alt="danushiya" /> 
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/Danushiya"> -->
@@ -38,7 +34,7 @@
 
 - 👨‍💻 All of my projects are available at [Danu's workspace](https://github.com/Danushiya)
 
-- 💬 Ask me about **Python, AI and Mobile Application**
+- 💬 Ask me about **Python, AI, ML and Data Science**
 
 - 📫 Feel free to reach out to me **danushiyakitty@gmail.com**
 
@@ -60,14 +56,14 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,flask,c,gradle" />
+    <img src="https://skillicons.dev/icons?i=java,py,flask,c,r" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,react,css,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,js,react,css" />
   </a>
 </p>
 
