@@ -28,7 +28,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/Danushiya/Danushiya/assets/146351206/9806e804-3770-4bce-b352-be3be264bc7d">
 <br><br>
 
-- 🔭 I have Worked as a Python Development Intern at **TechnoHack Edutech**
+- 🔭 I’m currently working as an Junior Software Trainee at **Eagle-HiTech Softclou Pvt Ltd**
 
 - 🌱 I’m currently learning **R**
 
